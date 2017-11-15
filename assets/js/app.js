@@ -62,6 +62,7 @@ var boom = function() {
 	containerBombIt.removeChild(bombIt);
 	containerBombIt.innerHTML =
 	 "<img src='https://i.imgur.com/DMLP6Xh.gif' alt='BOOM!'>";
+     document.body.style.background="0";
      addBtnRestart();
 };
 

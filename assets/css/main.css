@@ -1,5 +1,8 @@
 body {
 	text-align: center;
+	background:url("../img/Treetrunks.png");
+	background-position: right bottom;
+	background-repeat: no-repeat;
 }
 
 
@@ -24,6 +27,7 @@ button {
 	margin-top: 10px;
 	padding: 1%;
 	border: none;
+	border-radius: 5px;
 }
 
 img {
